@@ -25,7 +25,7 @@ Note for the respected person who will grade this assignment: We finish some par
 
 How to run code step by step:
 
-1. S3: Our frontend code files are all included in the directory named "chatbot_frontend". Just create a new bucket and upload the files under this directory.
+1. S3: Our frontend code files are all included in the zip file named "chatbot_frontend_10.17.zip". Just create a new bucket and upload the files under this zip file.
 
 2. API Gateway: Create new API by importing the Swagger file directly. The address of Swagger file: https://github.com/001000001/aics-columbia-s2018/blob/master/aics-swagger.yaml
 
